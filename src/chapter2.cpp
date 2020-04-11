@@ -3,10 +3,13 @@
 #include <cctype>
 #include <cstdio>
 #include <cstdlib>
+#include <iostream>
 #include <map>
 #include <memory>
 #include <string>
 #include <vector>
+
+using std::cout;
 
 //===----------------------------------------------------------------------===//
 // Lexer
@@ -486,7 +489,8 @@ int main()
     BinopPrecedence['*'] = 40; // highest.
 
     // Prime the first token.
-    fprintf(stdout, ">>> ");
+    // fprintf(stdout, ">>> ");
+    cout << ">>> ";
     getNextToken();
 
     // Run the main "interpreter loop" now.
