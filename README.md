@@ -39,6 +39,6 @@
 
 ## 参与人员
 
-- 石渊友,湖南大学（2017~2021 计算机本科） (Shi Yuanyou, Hunan University 2017~2021 CS undergraduate student) 
+- 石渊友,湖南大学（2017~2021 计算机本科） (Shi Yuanyou, Hunan University 2017 ~2021 CS undergraduate student) 
 
 
