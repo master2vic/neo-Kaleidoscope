@@ -33,7 +33,6 @@
 ## 参考
 
 - [llvm tutorial](https://llvm.org/docs/tutorial/index.html)
-- [llvm 中文教程](https://llvm.zcopy.site/tutorial/langimpl)
 - [知乎文章](https://zhuanlan.zhihu.com/p/122522485)
 
 ## 参与人员
