@@ -43,7 +43,18 @@ chmod +x ./test.sh
 - [ ] User-defined Operators
 - [ ] Mutable Variables
 
+<<<<<<< HEAD
 ### 个人期望部分 (暂定，不一定会增加)
+=======
+### 实现不同之处
+
+1. 函数的入口不同
+    
+    为了统一性，我特别的增加了一个token的状态：`tok-init`用于作为词法分析的入口。
+2. 增加debug模式，输出调试信息
+
+### 个人期望部分
+>>>>>>> 65de8e01e3b0ed0f313def5639daa2b94f15e468
 
 - [ ] Object Oriented
 - [x] recursion
@@ -53,11 +64,10 @@ chmod +x ./test.sh
 ## 参考
 
 - [llvm tutorial](https://llvm.org/docs/tutorial/index.html)
-- [llvm 中文教程](https://llvm.zcopy.site/tutorial/langimpl)
 - [知乎文章](https://zhuanlan.zhihu.com/p/122522485)
 
 ## 参与人员
 
-- 石渊友,湖南大学（2017~2021 计算机本科） (Shi Yuanyou, Hunan University 2017~2021 CS undergraduate student) 
+- 石渊友,湖南大学（2017~2021 计算机本科） (Shi Yuanyou, Hunan University 2017 ~2021 CS undergraduate student) 
 
 
